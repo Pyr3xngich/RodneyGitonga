@@ -113,7 +113,8 @@ header {
 
     z-index: 1000;
 
-    border-bottom: 1px solid #00ff41;
+
+    border-bottom: 1px solid #2d5a2d;
 }
 
 nav {
@@ -128,7 +129,8 @@ nav {
     font-size: 1.5rem;
     font-weight: 700;
 
-    color: #00ff41;
+
+    color: #2d5a2d;
 }
 
 .logo span {
@@ -154,7 +156,8 @@ nav {
 
 .nav-links a:hover {
 
-    color: #00ff41;
+
+    color: #2d5a2d;
 }
 
 
@@ -170,7 +173,8 @@ nav {
     display: flex;
     align-items: center;
     gap: 0.5rem;
-    color: #00ff41;
+
+    color: #2d5a2d;
     font-size: 0.9rem;
 }
 
@@ -191,7 +195,8 @@ nav {
 
 
 
-    background: #00ff41;
+
+    background: #2d5a2d;
     margin: 3px 0;
     transition: 0.3s;
 }
@@ -233,14 +238,16 @@ nav {
 
 .hero-text h1 span {
 
-    color: #00ff41;
+
+    color: #2d5a2d;
 }
 
 .hero-text h2 {
     font-size: 1.8rem;
 
 
-    color: #00ff41;
+
+    color: #2d5a2d;
     margin-bottom: 1rem;
     font-weight: 500;
 }
@@ -271,24 +278,29 @@ nav {
 }
 
 .primary-btn {
-    background: #00ff41;
-    color: #000000;
+
+    background: #2d5a2d;
+    color: #ffffff;
 }
 
 .primary-btn:hover {
-    background: #00cc33;
+
+    background: #1f4a1f;
     transform: translateY(-2px);
 }
 
 .secondary-btn {
     background: transparent;
-    color: #00ff41;
-    border: 2px solid #00ff41;
+
+
+    color: #2d5a2d;
+    border: 2px solid #2d5a2d;
 }
 
 .secondary-btn:hover {
-    background: #00ff41;
-    color: #000000;
+
+    background: #2d5a2d;
+    color: #ffffff;
 }
 
 .hero-image {
@@ -309,8 +321,9 @@ nav {
     height: auto;
 
     border-radius: 50%;
-    border: 3px solid #00ff41;
-    box-shadow: 0 10px 30px rgba(0, 255, 65, 0.3);
+
+    border: 3px solid #2d5a2d;
+    box-shadow: 0 10px 30px rgba(45, 90, 45, 0.4);
     width: 300px;
     height: 300px;
     object-fit: cover;
@@ -344,7 +357,8 @@ section {
 .underline {
     width: 80px;
     height: 4px;
-    background: #00ff41;
+
+    background: #2d5a2d;
     margin: 0 auto;
 }
 
@@ -380,7 +394,8 @@ section {
 .detail i {
 
 
-    color: #00ff41;
+
+    color: #2d5a2d;
     width: 20px;
 }
 
@@ -401,7 +416,8 @@ section {
     font-size: 1.5rem;
 
 
-    color: #00ff41;
+
+    color: #2d5a2d;
     margin-bottom: 1.5rem;
     text-align: center;
 }
@@ -431,7 +447,8 @@ section {
 .skill-item:hover {
     transform: translateY(-5px);
 
-    border-color: #00ff41;
+
+    border-color: #2d5a2d;
 }
 
 .skill-icon {
@@ -439,7 +456,8 @@ section {
 
 
     font-size: 3rem;
-    color: #00ff41;
+
+    color: #2d5a2d;
     margin-bottom: 1rem;
 }
 
@@ -481,7 +499,8 @@ section {
 
 
     transform: translateY(-5px);
-    border-color: #00ff41;
+
+    border-color: #2d5a2d;
 }
 
 
@@ -490,7 +509,8 @@ section {
     height: 200px;
 
     background: linear-gradient(45deg, #000000, #1a1a1a);
-    border-bottom: 2px solid #00ff41;
+
+    border-bottom: 2px solid #2d5a2d;
 }
 
 .project-info {
@@ -527,8 +547,10 @@ section {
 
 
 
-    background: #00ff41;
-    color: #000000;
+
+
+    background: #2d5a2d;
+    color: #ffffff;
     padding: 0.3rem 0.8rem;
     border-radius: 15px;
     font-size: 0.8rem;
@@ -543,7 +565,8 @@ section {
 
 .project-links a {
 
-    color: #00ff41;
+
+    color: #2d5a2d;
     text-decoration: none;
     font-weight: 500;
     transition: color 0.3s ease;
@@ -551,7 +574,8 @@ section {
 
 .project-links a:hover {
 
-    color: #00cc33;
+
+    color: #1f4a1f;
 }
 
 .view-more {
@@ -573,7 +597,8 @@ section {
 
 
 .contact-info h3 {
-    color: #00ff41;
+
+    color: #2d5a2d;
     margin-bottom: 1rem;
     font-size: 1.5rem;
 
@@ -605,7 +630,8 @@ section {
 .contact-item i {
 
 
-    color: #00ff41;
+
+    color: #2d5a2d;
     font-size: 1.2rem;
     width: 25px;
 }
@@ -635,7 +661,8 @@ section {
     width: 40px;
     height: 40px;
     background: #1a1a1a;
-    color: #00ff41;
+
+    color: #2d5a2d;
     border-radius: 50%;
 
 
@@ -649,14 +676,17 @@ section {
 .social-links a:hover {
 
 
-    background: #00ff41;
-    color: #000000;
+
+
+    background: #2d5a2d;
+    color: #ffffff;
     transform: translateY(-2px);
 }
 
 /* Contact Form */
 .contact-form h3 {
-    color: #00ff41;
+
+    color: #2d5a2d;
     margin-bottom: 1.5rem;
     font-size: 1.5rem;
 }
@@ -689,7 +719,8 @@ section {
 .form-group textarea:focus {
     outline: none;
 
-    border-color: #00ff41;
+
+    border-color: #2d5a2d;
 }
 
 .form-group textarea {
@@ -710,7 +741,8 @@ footer {
 
     background: #000000;
     padding: 3rem 0 1rem;
-    border-top: 1px solid #00ff41;
+
+    border-top: 1px solid #2d5a2d;
 }
 
 .footer-content {
@@ -728,7 +760,8 @@ footer {
 .footer-logo h3 {
 
 
-    color: #00ff41;
+
+    color: #2d5a2d;
     margin-bottom: 0.5rem;
 }
 
@@ -757,7 +790,8 @@ footer {
 
 .footer-links a:hover {
 
-    color: #00ff41;
+
+    color: #2d5a2d;
 }
 
 .copyright {
